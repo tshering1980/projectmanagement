@@ -1,6 +1,6 @@
 Tree: <!-- or halium-7.1 -->
 
-- [ ] Create manifest <!-- https://github.com/tshering1980/halium-devices/commit/a3763c90b3ff9b769a655a1b5a27d14fa371471c -->
+- [ ] Create manifest <!-- https://github.com/tshering1980/halium-devices/blob/5f71f2cf2554721043e718351a745dadf03ed7b6/manifests/huawei_kiwi.xml -->
 - [ ] Boot image and system image build successfully
 - [ ] Device boots into rootfs, `usb: Manufacturer: GNU/Linux Device` appears in `dmesg` on host.
 - [ ] LXC container starts and does not crash
