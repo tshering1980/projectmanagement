@@ -1,11 +1,6 @@
----
-name: Device port
-about: Template for tracking progress of device ports
----
+Tree: <!-- or halium-7.1 -->
 
-Tree: <!-- halium-5.1 or halium-7.1 -->
-
-- [ ] Create manifest <!-- Link to the manifest, contained in a pull request to https://github.com/Halium/halium-devices -->
+- [ ] Create manifest <!-- https://github.com/tshering1980/halium-devices/blob/5f71f2cf2554721043e718351a745dadf03ed7b6/manifests/huawei_kiwi.xml -->
 - [ ] Boot image and system image build successfully
 - [ ] Device boots into rootfs, `usb: Manufacturer: GNU/Linux Device` appears in `dmesg` on host.
 - [ ] LXC container starts and does not crash
